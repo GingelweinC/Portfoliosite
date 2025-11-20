@@ -1,0 +1,40 @@
+Repository license
+===================
+
+Copyright (c) 2025 
+
+This repository contains source code, text and other materials. The licensing rules below apply to the different types of content in this repository.
+
+1) Source code and textual project files
+---------------------------------------
+
+All source code, scripts, configuration files, and textual documentation in this repository are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+Full license text and legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Summary of rights and obligations under CC BY-SA 4.0:
+- You are free to Share (copy and redistribute) and Adapt (remix, transform, build upon) the material for any purpose, even commercially.
+- You must give appropriate credit (attribution), provide a link to the license, and indicate if changes were made.
+- If you remix, transform, or build upon the material, you must distribute your contributions under the same license (ShareAlike).
+
+
+2) Images and media files (NOT free)
+------------------------------------
+
+Images, photographs, icons and other media assets contained in the `public/` directory (and any other media files included in this repository) are NOT covered by the CC BY-SA 4.0 license above unless explicitly stated otherwise in a file-level notice.
+
+These media files are provided with all rights reserved. Re-use, redistribution, modification, or commercial use of those assets is prohibited.
+
+
+
+3) Third-party dependencies and notices
+--------------------------------------
+
+Third-party libraries and tools used by this project (listed in `package.json`) are subject to their own licenses. Check the corresponding packages for their license terms.
+
+4) Disclaimer
+-------------
+
+The materials are provided "as is", without warranty of any kind. The author is not liable for any claims, damages or other liabilities.
+
+

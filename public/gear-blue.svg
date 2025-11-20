@@ -1,0 +1,18 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <circle cx="40" cy="40" r="32" stroke="#B6FFFD" stroke-width="8" fill="#F8FBFC"/>
+    <circle cx="40" cy="40" r="24" stroke="#B6FFFD" stroke-width="4" fill="none"/>
+    <circle cx="40" cy="40" r="8" fill="#B6FFFD"/>
+    <!-- Dents du pignon -->
+    <g>
+      <rect x="38" y="0" width="4" height="16" rx="2" fill="#B6FFFD"/>
+      <rect x="38" y="64" width="4" height="16" rx="2" fill="#B6FFFD"/>
+      <rect x="0" y="38" width="16" height="4" rx="2" fill="#B6FFFD"/>
+      <rect x="64" y="38" width="16" height="4" rx="2" fill="#B6FFFD"/>
+      <rect x="12" y="12" width="4" height="16" rx="2" transform="rotate(-45 14 20)" fill="#B6FFFD"/>
+      <rect x="64" y="12" width="4" height="16" rx="2" transform="rotate(45 66 20)" fill="#B6FFFD"/>
+      <rect x="12" y="64" width="4" height="16" rx="2" transform="rotate(45 14 72)" fill="#B6FFFD"/>
+      <rect x="64" y="64" width="4" height="16" rx="2" transform="rotate(-45 66 72)" fill="#B6FFFD"/>
+    </g>
+  </g>
+</svg>
